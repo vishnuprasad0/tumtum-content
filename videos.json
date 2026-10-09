@@ -1,6 +1,9 @@
 {
  "version": 1,
  "updated": "2026-10-09",
+ "hiddenSongs": [
+  "farm_song_ml"
+ ],
  "videos": [
   {
    "id": "goobee_bUs8aKB07KY",
